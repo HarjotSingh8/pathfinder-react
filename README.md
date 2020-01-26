@@ -1,2 +1,0 @@
-# pathfinder-react
-Pathfiner visualiser
