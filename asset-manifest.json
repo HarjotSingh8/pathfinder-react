@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pathfinder-react/static/css/main.e98aee4a.chunk.css",
+    "main.js": "/pathfinder-react/static/js/main.6e226581.chunk.js",
+    "main.js.map": "/pathfinder-react/static/js/main.6e226581.chunk.js.map",
+    "runtime-main.js": "/pathfinder-react/static/js/runtime-main.00f6bbd3.js",
+    "runtime-main.js.map": "/pathfinder-react/static/js/runtime-main.00f6bbd3.js.map",
+    "static/css/2.54cdf138.chunk.css": "/pathfinder-react/static/css/2.54cdf138.chunk.css",
+    "static/js/2.78ee99e3.chunk.js": "/pathfinder-react/static/js/2.78ee99e3.chunk.js",
+    "static/js/2.78ee99e3.chunk.js.map": "/pathfinder-react/static/js/2.78ee99e3.chunk.js.map",
+    "index.html": "/pathfinder-react/index.html",
+    "precache-manifest.98c0cb52b442cbb89422c6196de304e9.js": "/pathfinder-react/precache-manifest.98c0cb52b442cbb89422c6196de304e9.js",
+    "service-worker.js": "/pathfinder-react/service-worker.js",
+    "static/css/2.54cdf138.chunk.css.map": "/pathfinder-react/static/css/2.54cdf138.chunk.css.map",
+    "static/css/main.e98aee4a.chunk.css.map": "/pathfinder-react/static/css/main.e98aee4a.chunk.css.map",
+    "static/js/2.78ee99e3.chunk.js.LICENSE": "/pathfinder-react/static/js/2.78ee99e3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00f6bbd3.js",
+    "static/css/2.54cdf138.chunk.css",
+    "static/js/2.78ee99e3.chunk.js",
+    "static/css/main.e98aee4a.chunk.css",
+    "static/js/main.6e226581.chunk.js"
+  ]
+}
