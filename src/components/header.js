@@ -6,7 +6,7 @@ class Header extends Component {
     return (
       <div
         className="header ml-0 row bg-dark text-white justify-content-center justify-content-sm-start"
-        style={{ width: "100%" }}
+        style={{ width: "100%", height: "24px" }}
       >
         <div className="row col-12 col-sm-3 justify-content-center justify-content-sm-start">
           <div className="ml-0 ml-sm-3 d-inline-flex">
@@ -15,8 +15,8 @@ class Header extends Component {
         </div>
         <div class="row col-4 col-sm-3">
           <button
-            class="btn btn-dark"
-            onclick={this.props.dijkstra}
+            class="btn btn-dark p-0 px-2"
+            onClick={this.props.findpath}
             style={{ height: "24px" }}
           >
             dijkstra
